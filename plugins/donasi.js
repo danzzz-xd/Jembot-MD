@@ -24,7 +24,7 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
          hydratedTemplate: {
            imageMessage: message.imageMessage,
            hydratedContentText: duit,
-           hydratedFooterText: © Creator By Ramdani Official,
+           hydratedFooterText: wm,
            hydratedButtons: [
               {
              quickReplyButton: {
