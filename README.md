@@ -1,5 +1,5 @@
 <p align="center">
-<img src="hthttps://github.com/Ramdaniofficial/Jembot-MD/foto/menu.jpg" alt="RAMDANI BOTZ MULTI DEVICE" width="100"/>
+<img src="https://github.com/Ramdaniofficial/Jembot-MD/media/esce.jpg" alt="RAMDANI BOTZ MULTI DEVICE" width="100"/>
 
 
 </p>
