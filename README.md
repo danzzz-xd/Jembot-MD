@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz versi 12.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz Multi Device-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
