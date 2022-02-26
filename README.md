@@ -1,7 +1,5 @@
 <p align="center">
-<img src="https://github.com/Ramdaniofficial/Jembot-MD/media/esce.jpg" alt="RAMDANI BOTZ MULTI DEVICE" width="100"/>
-
-
+<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <p align="center">
 <a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz Multi Device-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
