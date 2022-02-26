@@ -32,7 +32,7 @@
 ---
 
 ## Information
-> Ramdani botz Md (multi device) adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Ramdani botz v12 is a bot whatsapp using a Baileys library.
+> Ramdani botz Md (multi device) adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Ramdani botz Multi Device is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
